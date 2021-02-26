@@ -3,3 +3,4 @@ A simple repo containing information on headtracking clip measurement values use
 
 DelanClip Fusion:
 
+![DelanFusion](https://github.com/bradley-r/PointTracker-Measurements/blob/main/DelanClipFusion.jpg)
